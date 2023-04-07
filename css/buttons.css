@@ -1,0 +1,35 @@
+button{
+    background-color: #7B61FF;
+    border-radius: 12px;
+}
+
+button:hover{
+    background-color: #8b78ea;
+    transition: background-color 0.2s ease-in ;
+}
+
+.header-btn {
+    margin: 0 auto;
+    width: 273px;
+    height: 72px;
+    background-color: #7B61FF;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.button-view{
+    display: flex;
+    align-items: center;
+    color: #5243C2;
+    justify-content: center;
+    gap: 4px;
+    width: 105px;
+    height: 44px;
+    background-color: #F6F4FF;
+}
+.button-view:hover{
+    background-color:#ddd6fb;
+}
